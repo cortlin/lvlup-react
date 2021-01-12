@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React app for the level Up tuts React Course
+[download the course here](https://www.leveluptutorials.com/tutorials/react-for-everyone)
 
 ## Available Scripts
 
